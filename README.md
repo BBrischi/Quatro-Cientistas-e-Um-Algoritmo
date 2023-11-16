@@ -59,7 +59,8 @@ A partir do modelo que obteve o melhor desempenho, construimos uma interface des
 </div>
 
 O usuário do software - que, a princípio, se direciona a profissionais da saúde - deve carregar os dados de quem se quer prever na tela que aparece quando roda o programa (imagem acima). Os dados numéricos (idade, glicose e índice de massa corporal) devem ser digitados na caixa de texto, enquanto os categóricos estão em opções pré-estabelecidas, de mesmo nome do dataset.
-Deve-se notar que a previsão de maneira alguma é conclusiva ou deve ser usada para a tomada de decisões. É apenas uma ferramenta que ainda tem muito a ser melhorada.
+
+**Deve-se notar que a previsão feita no PRAVC de maneira alguma é conclusiva ou deve ser usada para a tomada de decisões. É apenas uma ferramenta que ainda tem muito a ser melhorada.**
 
 ## Referências
 
