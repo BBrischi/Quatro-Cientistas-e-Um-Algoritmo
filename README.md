@@ -53,13 +53,6 @@ No notebook, os modelos estão implementados em seções distintas, cada uma ded
 
 Para executar o código, basta rodar as células uma a uma. Certifique-se de seguir a ordem das células para evitar erros. A célula que contém o encoder, responsável por transformar dados categóricos, deve ser executada apenas uma vez. Se ocorrer algum erro durante a execução, reiniciar o kernel e rodar novamente pode ser uma solução eficaz.
 
-
-## Prevenção: A importância de cada atributo
-A análise do modelo de Floresta Aleatória que desenvolvemos para prever casos de AVC revelou não apenas uma ferramenta eficaz para prever possíveis AVC, mas também é possível extrair informações valiosas sobre a prevenção do AVC. Ao explorar o a importância de cada atributo, computada automaticamente pelo `sklearn` no `feature_importances_` , identificamos que a idade, amplamente reconhecida como um fator de risco, surge como o principal contribuinte para a predição de AVC. Embora a idade seja um fator intrínseco e não passível de prevenção, a revelação do segundo atributo de maior importância, o nível de glicose, indica uma oportunidade interessante a indicar para pacientes se protegerem.
-
-Estas informações ressaltam não apenas a importância da conscientização sobre fatores de risco como a idade, mas também a capacidade de intervenção em fatores controláveis, como o nível de glicose ou hipertensão. A divulgação dessas informações pode servir como um guia valioso para medidas preventivas, permitindo que os indivíduos adotem práticas saudáveis, como controle glicêmico e adoção de hábitos alimentares equilibrados. Assim, não apenas alertamos sobre os riscos, mas capacitamos as pessoas com conhecimentos para se protegerem do que pode aumentar o risco de AVC.
-
-
 ## Previsão: Interface do PRAVC
 A partir do modelo que obteve o melhor desempenho, construimos uma interface destinada justamente à utilização para a previsão de AVC. O código utilizou da biblioteca Tkinter e é bem intuitivo.
 
