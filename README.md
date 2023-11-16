@@ -38,8 +38,8 @@ Tkinter: Biblioteca usada para criar a interface gráfica do programa, que receb
 Optuna: Biblioteca foi usada pro tuning de hiperparâmetros, buscando a configuração para melhor desempenho dos modelos.
 
 ## Como utilizar
-Para utilizar o modelo desenvolvido, o usuário deve ter o Python instalado, juntamente com as bibliotecas mencionadas acima. Além disso, é necessário um hardware capaz de executar o Python e suas dependências.
+O código está organizado em um notebook do Jupyter, uma ferramenta interativa que permite a combinação de texto explicativo, código executável e visualizações em um único ambiente. Certifique-se de ter o Jupyter Notebook instalado para melhor interação.
 
-No notebook, os modelos estão implementados em seções distintas, cada uma dedicada a um modelo específico (KNN, Floresta Aleatória e Árvore de Decisão). O usuário pode observar o código, os resultados e as visualizações geradas para cada modelo.
+No notebook, os modelos estão implementados em seções distintas, cada uma dedicada a um modelo específico (KNN, Floresta Aleatória e Árvore de Decisão). Você pode observar o código, os resultados e as visualizações geradas para cada modelo.
 
-É importante notar que a célula que contém o encoder deve ser executada apenas uma vez. Se ocorrer algum erro, é recomendável reiniciar o kernel e executar novamente.
+Para executar o código, basta rodar as células uma a uma. Certifique-se de seguir a ordem das células para evitar erros. A célula que contém o encoder, responsável por transformar dados categóricos, deve ser executada apenas uma vez. Se ocorrer algum erro durante a execução, reiniciar o kernel e rodar novamente pode ser uma solução eficaz.
