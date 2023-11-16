@@ -62,3 +62,4 @@ O usuário do software - que, a princípio, se direciona a profissionais da saú
 
 ## Referências
 
+As referências principais para a construção do projeto foram os notebooks didáticos elaborados pelo professor Daniel Roberto Cassar
