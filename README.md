@@ -43,3 +43,9 @@ O código está organizado em um notebook do Jupyter, uma ferramenta interativa 
 No notebook, os modelos estão implementados em seções distintas, cada uma dedicada a um modelo específico (KNN, Floresta Aleatória e Árvore de Decisão). Você pode observar o código, os resultados e as visualizações geradas para cada modelo.
 
 Para executar o código, basta rodar as células uma a uma. Certifique-se de seguir a ordem das células para evitar erros. A célula que contém o encoder, responsável por transformar dados categóricos, deve ser executada apenas uma vez. Se ocorrer algum erro durante a execução, reiniciar o kernel e rodar novamente pode ser uma solução eficaz.
+
+
+## Interface
+<div>
+        <img src="software pravc.jpg" style="width: 356px; height:400px; margin-right: 20px;" />
+</div>
