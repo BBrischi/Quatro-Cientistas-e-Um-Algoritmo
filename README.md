@@ -13,5 +13,11 @@
 ## Apresentação
 
 O PRAVC é um trabalho final de _Machine Learning_, disciplina ministrada por Daniel Roberto Cassar na [Ilum - Escola de Ciências](https://ilum.cnpem.br). Assim, o objetivo desse projeto foi explorar um _dataset_ retirado do Kaggle com atributos relacionados a Acidente Vascular Cerebral (AVC), de forma a testar alguns modelos preditivos e observar se algum deles pode ser usado de forma eficiente para prever a ocorrência de AVC em algum indíviduo. 
+<br>
+Com isso em mente, decidimos testar três modelos: KNN (K-Nearest Neighbors) classificador, floresta aleatória e árvore de decisão. Com uma seção dedicada a apresentação, execução e resultado de cada modelo.
 
 ## Motivação
+
+## Requisitos
+
+Para utilizar o modelo que desenvolvemos, é necessário que o usuário tenha o Python instalado e as respectivas bibliotecas: `seaborn`, `pandas`, `numpy`, `pickle`, `matplotlib`, `sklearn`, `tkinter` e `optuna`.  Além disso, é necessário que o usuário tenha um hardware capaz de rodar o Python e as bibliotecas.
