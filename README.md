@@ -46,6 +46,8 @@ Para executar o código, basta rodar as células uma a uma. Certifique-se de seg
 
 
 ## Interface
+A partir do modelo que obteve o melhor desempenho, construimos uma interface destinada justamente à utilização para a previsão de AVC. 
+
 <div>
-        <img src="software pravc.png" style="width: 356px; height:400px; margin-right: 20px;" />
+        <img src="software_pravc.png" style="width: 356px; height:400px; margin-right: 20px;" />
 </div>
