@@ -47,5 +47,5 @@ Para executar o código, basta rodar as células uma a uma. Certifique-se de seg
 
 ## Interface
 <div>
-        <img src="software pravc.jpg" style="width: 356px; height:400px; margin-right: 20px;" />
+        <img src="software pravc.png" style="width: 356px; height:400px; margin-right: 20px;" />
 </div>
