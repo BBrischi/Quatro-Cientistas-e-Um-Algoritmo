@@ -21,4 +21,25 @@ O Acidente Vascular Cerebral (AVC), também conhecido como derrame, é uma condi
 
 ## Requisitos
 
-Para utilizar o modelo que desenvolvemos, é necessário que o usuário tenha o Python instalado e as respectivas bibliotecas: `seaborn`, `pandas`, `numpy`, `pickle`, `matplotlib`, `sklearn`, `tkinter` e `optuna`.  Além disso, é necessário que o usuário tenha um hardware capaz de rodar o Python e as bibliotecas.
+Para utilizar o modelo que desenvolvemos, é necessário que o usuário tenha o Python instalado e as respectivas bibliotecas: `seaborn`, `pandas`, `numpy`, `matplotlib`, `sklearn`, `tkinter` e `optuna`.  Além disso, é necessário que o usuário tenha um hardware capaz de rodar o Python e as bibliotecas.
+
+## Bibliotecas
+
+Matplotlib/Seaborn: Foram as bibliotecas utilizadas para a visualização estatístic, principalmente na parte inicial de exploração dos dados, mas também para o plot de matrizes de confusão, que ajudam a compreensão de cada modelo.
+
+Pandas: Biblioteca usada principalmente para manipulação e análise dos dados e dataframe. 
+
+NumPy: Biblioteca usada para a manipulação de arrays.
+
+Scikit-learn (sklearn): A biblioteca de aprendizado de máquina que foi usada para fazer os modelos de classificação.
+
+Tkinter: Biblioteca usada para criar a interface gráfica do programa, que recebe os dados do usuário e retorna o output dado pelo modelo de
+
+Optuna: Biblioteca foi usada pro tuning de hiperparâmetros, buscando a configuração para melhor desempenho dos modelos.
+
+## Como utilizar
+Para utilizar o modelo desenvolvido, o usuário deve ter o Python instalado, juntamente com as bibliotecas mencionadas acima. Além disso, é necessário um hardware capaz de executar o Python e suas dependências.
+
+No notebook, os modelos estão implementados em seções distintas, cada uma dedicada a um modelo específico (KNN, Floresta Aleatória e Árvore de Decisão). O usuário pode observar o código, os resultados e as visualizações geradas para cada modelo.
+
+É importante notar que a célula que contém o encoder deve ser executada apenas uma vez. Se ocorrer algum erro, é recomendável reiniciar o kernel e executar novamente.
