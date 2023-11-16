@@ -16,6 +16,15 @@ O PRAVC é um trabalho final de _Machine Learning_, disciplina ministrada por Da
 <br>
 Com isso em mente, decidimos testar três modelos: KNN (K-Nearest Neighbors) classificador, floresta aleatória e árvore de decisão. Com uma seção dedicada a apresentação, execução e resultado de cada modelo.
 
+## Estrutura do Repositório
+
+No repositório, você encontrará os seguintes arquivos:
+
+* __PRAVC:__ Notebook que contém todo o projeto, descrevendo os três modelos e a interface para predição.
+* __healthcare-dataset-stroke-data.csv:__ Dataset utilizado para obtenção dos dados.
+* __logo_projeto_final.png__: Arquivo PNG da logo do projeto, que foi utilizado nesse README e no notebook do trabalho.
+* __software_pravc.png__: Print da interface usado para exemplificar
+
 ## Motivação
 O Acidente Vascular Cerebral (AVC), também conhecido como derrame, é uma condição médica crítica que ocorre quando o suprimento de sangue para uma parte do cérebro é interrompido, resultando em danos aos tecidos cerebrais. Segundo o [Ministério da Saúde Brasileiro](https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/a/avc), AVC é uma das principais causas de morte, incapacitação e internações em todo o mundo. Fatores como hipertensão, doenças cardíacas, diabetes, tabagismo e estilo de vida sedentário, estão associados ao aumento da probabilidade do AVC ocorrer. Portanto, a prevenção e a identificação precoce de indivíduos em risco são fundamentais para reduzir o impacto do AVC na saúde pública.
 
