@@ -63,3 +63,5 @@ O usuário do software - que, a princípio, se direciona a profissionais da saú
 ## Referências
 
 As referências principais para a construção do projeto foram os notebooks didáticos elaborados pelo professor Daniel Roberto Cassar
+
+Além disso, o [ChatGPT](https://chat.openai.com/) foi utilizado para debugar o código, além de que o código da interface do Tkinter foi adaptado também do ChatGPT. 
