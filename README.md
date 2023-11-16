@@ -46,6 +46,8 @@ Para executar o código, basta rodar as células uma a uma. Certifique-se de seg
 
 
 ## Prevenção: A importância de cada atributo
+A análise do modelo de Floresta Aleatória que desenvolvemos para prever casos de AVC revelou não apenas uma ferramenta eficaz para prever possíveis AVC, mas também é possível extrair informações valiosas sobre a prevenção do AVC. Ao explorar o a importância de cada atributo, computada automaticamente pelo `scikit` no `feature_importances_` , identificamos que a idade, amplamente reconhecida como um fator de risco, surge como o principal contribuinte para a predição de AVC. Embora a idade seja um fator intrínseco e não passível de prevenção, a revelação do segundo atributo de maior importância, o nível de glicose, indica uma oportunidade interessante a indicar para pacientes se protegerem.
+
 
 ## Previsão: Interface do PRAVC
 A partir do modelo que obteve o melhor desempenho, construimos uma interface destinada justamente à utilização para a previsão de AVC. 
