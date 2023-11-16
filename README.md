@@ -45,7 +45,9 @@ No notebook, os modelos estão implementados em seções distintas, cada uma ded
 Para executar o código, basta rodar as células uma a uma. Certifique-se de seguir a ordem das células para evitar erros. A célula que contém o encoder, responsável por transformar dados categóricos, deve ser executada apenas uma vez. Se ocorrer algum erro durante a execução, reiniciar o kernel e rodar novamente pode ser uma solução eficaz.
 
 
-## Interface
+## Prevenção: A importância de cada atributo
+
+## Previsão: Interface do PRAVC
 A partir do modelo que obteve o melhor desempenho, construimos uma interface destinada justamente à utilização para a previsão de AVC. 
 
 <div>
