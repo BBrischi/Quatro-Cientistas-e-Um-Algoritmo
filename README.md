@@ -25,17 +25,17 @@ Para utilizar o modelo que desenvolvemos, é necessário que o usuário tenha o 
 
 ## Bibliotecas
 
-Matplotlib/Seaborn: Foram as bibliotecas utilizadas para a visualização estatístic, principalmente na parte inicial de exploração dos dados, mas também para o plot de matrizes de confusão, que ajudam a compreensão de cada modelo.
+- **Matplotlib/Seaborn**: Foram as bibliotecas utilizadas para a visualização estatístic, principalmente na parte inicial de exploração dos dados, mas também para o plot de matrizes de confusão, que ajudam a compreensão de cada modelo.
+  
+- **Pandas**: Biblioteca usada principalmente para manipulação e análise dos dados e dataframe. 
 
-Pandas: Biblioteca usada principalmente para manipulação e análise dos dados e dataframe. 
+- **NumPy**: Biblioteca usada para a manipulação de arrays.
 
-NumPy: Biblioteca usada para a manipulação de arrays.
+- **Scikit-learn**: A biblioteca de aprendizado de máquina que foi usada para fazer os modelos de classificação.
 
-Scikit-learn (sklearn): A biblioteca de aprendizado de máquina que foi usada para fazer os modelos de classificação.
+- **Tkinter**: Biblioteca usada para criar a interface gráfica do programa, que recebe os dados do usuário e retorna o output dado pelo modelo de
 
-Tkinter: Biblioteca usada para criar a interface gráfica do programa, que recebe os dados do usuário e retorna o output dado pelo modelo de
-
-Optuna: Biblioteca foi usada pro tuning de hiperparâmetros, buscando a configuração para melhor desempenho dos modelos.
+- **Optuna**: Biblioteca foi usada pro tuning de hiperparâmetros, buscando a configuração para melhor desempenho dos modelos.
 
 ## Como utilizar
 O código está organizado em um notebook do Jupyter, uma ferramenta interativa que permite a combinação de texto explicativo, código executável e visualizações em um único ambiente. Certifique-se de ter o Jupyter Notebook instalado para melhor interação.
