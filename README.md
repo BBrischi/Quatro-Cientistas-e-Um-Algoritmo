@@ -73,6 +73,18 @@ O usuário do software - que, a princípio, se direciona a profissionais da saú
 
 ## Referências
 
-As referências principais para a construção do projeto foram os notebooks didáticos elaborados pelo professor Daniel Roberto Cassar
+[1] As referências principais para a construção do projeto foram os notebooks didáticos elaborados pelo professor Daniel Roberto Cassar
 
-Além disso, o [ChatGPT](https://chat.openai.com/) foi utilizado para debugar o código, além de que o código da interface do Tkinter foi adaptado do mesmo.
+[2] Além disso, o [ChatGPT](https://chat.openai.com/) foi utilizado para debugar o código, além de que o código da interface do Tkinter foi adaptado do mesmo.
+
+[3] https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
+
+[4] https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
+
+[5] https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_val_score.html#sklearn.model_selection.cross_val_score
+
+[6] https://scikit-learn.org/stable/modules/generated/sklearn.metrics.get_scorer.html#sklearn.metrics.get_scorer
+
+[7] https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/
+
+[8] https://optuna.readthedocs.io/en/stable/
